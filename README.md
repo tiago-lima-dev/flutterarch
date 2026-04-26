@@ -285,5 +285,3 @@ BlocBuilder<FinancialCubit, FinancialState>(
 **Desenvolvido seguindo Clean Architecture + Feature-Based Pattern**
 
 **Stack: Flutter + Dart + Cubit + GetIt + Hive**
-
-Teste
